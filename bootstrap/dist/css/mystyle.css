@@ -1,0 +1,80 @@
+a.btn.btn-lg.btn-default {}
+
+.candidates {
+    width: 50%;
+    float: left;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 14px;
+    box-shadow: inset -5px 0px 0px 0px #003F6B;
+    background-color: rgba(0, 0, 0, 0.62);
+}
+
+.companies {
+    width: 50%;
+    float: right;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 14px;
+    background-color: rgba(0, 0, 0, 0.62);
+}
+
+
+div {
+}
+
+span.glyphicon.glyphicon-user {
+}
+
+span.glyphicon.glyphicon-eye-open {
+}
+
+span.glyphicon.glyphicon-check {
+}
+
+.steps {
+}
+
+.step1 {
+    background-color: black;
+    padding: 40px;
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+}
+
+.step3 {
+    background-color: black;
+    padding: 35px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.col-md-4.step2 {
+    background-color: black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+}
+
+.row.step-description {
+    font-size: 20px;
+    opacity: 0.8;
+}
+
+.row.step-description.main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+.fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+    padding: 20px;
+}
+
+.steps.main-container {}
